@@ -1,0 +1,63 @@
+#imgcountrs1{
+    height: 350px;
+    width: 300px;
+    margin-top: 100px;
+
+}
+#imgcountrs2{
+    height: 350px;
+    width: 300px;
+    margin-top: 100px;
+
+}
+#imgcountrs3{
+    height: 350px;
+    width: 300px;
+    margin-top: 100px;
+
+}
+#imgcountrs4{
+    height: 350px;
+    width: 300px;
+    margin-top: 100px;
+
+}
+
+#imgindia1{
+    position: absolute;
+    border: 2px solid white;
+    position: absolute;
+    /* left: 160px; */
+    margin-top: 35px;
+}
+
+#imgindia2{
+    position: absolute;
+    border: 2px solid white;
+    position: absolute;
+    /* left: 500px; */
+    margin-top: 35px;
+}
+
+#imgindia3{
+    position: absolute;
+    border: 2px solid white;
+    position: absolute;
+    /* left: 860px; */
+    margin-top: 35px;
+}
+
+#imgindia4{
+    position: absolute;
+    border: 2px solid white;
+    position: absolute;
+    /* left: 76rem; */
+    margin-top: 35px;
+}
+
+footer{
+    background-color:#003a66;
+}
+
+
+
